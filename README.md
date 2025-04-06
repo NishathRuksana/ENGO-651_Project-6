@@ -49,5 +49,5 @@ This lab demonstrates how to integrate **Turf.js** with **Leaflet.js** to simpli
 
 ## 🎓 Purpose
 
-This application was built as part of **ENGO651 , Lab 6 assignment at the **University of Calgary**, to explore client-side geometry simplification using open-source mapping tools.
+This application was built as part of **ENGO651** , Lab 6 assignment at the **University of Calgary**, to explore client-side geometry simplification using open-source mapping tools.
 
