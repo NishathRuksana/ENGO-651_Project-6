@@ -1,0 +1,9 @@
+/* Set map height */
+#map {
+  height: 600px;
+}
+
+/* Style for control buttons */
+.controls {
+  margin: 10px;
+}
